@@ -5,11 +5,9 @@ __pycache__/
 .pytest_cache/
 
 # Ignore all markdown files
-*.md
 
-# Exception: keep README.md
-!README.md
-!Readme.md
+
+
 
 # Virtual environments & IDE
 .env
